@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>AWS Cloud Support Engineer · Linux Administrator · DevOps Engineer</strong>
+  <strong>AWS Cloud Support Engineer · Linux Administrator · DevOps Engineer</strong><br />
+  <sub>Building reliable cloud infrastructure through automation, observability, and practical troubleshooting.</sub>
 </p>
 
 <p align="center">
@@ -12,70 +13,85 @@
   <img src="https://komarev.com/ghpvc/?username=SudharshanMutalik46&label=PROFILE+VIEWS&color=00bfa6&style=for-the-badge" alt="Profile views" />
 </p>
 
-## `01 / ABOUT`
+## `01 / WHOAMI`
+
+Hello! I'm **Sudharshan**, an AWS Cloud and DevOps Engineer focused on keeping infrastructure reliable, secure, observable, and repeatable. I enjoy solving Linux and networking issues, automating cloud environments, and turning operational lessons into clear runbooks and reusable infrastructure.
 
 ```yaml
-name: Sudharshan Mutalik
 location: Bengaluru, India
-mission: Keep cloud systems reliable, observable, secure, and repeatable
-focus:
-  - AWS cloud operations and troubleshooting
-  - Linux administration and networking
-  - Infrastructure as Code and CI/CD
-  - Kubernetes, monitoring, and incident response
-open_to: AWS Cloud Support | Linux Administration | DevOps
+experience: 1 year in Cloud Support and DevOps
+strengths: [AWS operations, Linux, troubleshooting, automation, monitoring]
+currently_building: deeper Kubernetes, EKS, Terraform, and CI/CD skills
+open_to: [AWS Cloud Support, Linux Administrator, DevOps Engineer]
 ```
 
-I enjoy turning operational problems into documented, automated solutions—from investigating Linux and network issues to provisioning infrastructure and improving visibility with metrics and alerts.
+## `02 / ENGINEERING IMPACT`
 
-## `02 / CLOUD TOOLBELT`
+- ⚡ Improved incident response with **10+ CloudWatch alarms**, SNS notifications, and documented troubleshooting procedures.
+- 📈 Supported **99.9% infrastructure uptime** across cloud and on-premises environments.
+- 🔐 Hardened **10+ Ubuntu servers** with SSH keys, patching, permissions, and access controls.
+- 💰 Reduced avoidable AWS costs by identifying idle EC2 instances, unattached EBS volumes, and unused Elastic IPs.
+- 🛠️ Built Terraform, Docker, Kubernetes, Prometheus, and Grafana configurations for hands-on platform operations.
+
+## `03 / CLOUD TOOLBELT`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,terraform,docker,kubernetes,jenkins,githubactions,prometheus,grafana,postgres,git,bash&perline=12" alt="AWS, Linux, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Prometheus, Grafana, PostgreSQL, Git and Bash" />
 </p>
 
-| Area | Hands-on tools |
-|---|---|
-| Cloud | AWS EC2, VPC, IAM, RDS, S3, CloudWatch, Route 53 |
-| Platform | Linux, Docker, Kubernetes, Amazon EKS |
-| Automation | Terraform, Jenkins, GitHub Actions, Bash, Git |
-| Observability | Prometheus, Grafana, CloudWatch, alerting |
-| Operations | DNS, DHCP, VPN, firewalls, SSH, patching, access control |
+**Cloud** — AWS EC2 · VPC · IAM · RDS · S3 · CloudWatch · Route 53  
+**Platform** — Linux · Docker · Kubernetes · Amazon EKS  
+**Automation** — Terraform · Jenkins · GitHub Actions · Bash · Git  
+**Observability** — Prometheus · Grafana · CloudWatch · SNS alerting  
+**Operations** — DNS · DHCP · VPN · Firewalls · SSH · Patching
 
-## `03 / SELECTED DEVOPS LABS`
+## `04 / SELECTED DEVOPS LABS`
 
-> These are fork-based, hands-on learning labs I use to practise Kubernetes, AWS infrastructure, Terraform, and delivery workflows.
+> Fork-based learning environments used to practise Kubernetes, AWS infrastructure, Terraform, ingress, monitoring, and delivery workflows.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☸️ <a href="https://github.com/SudharshanMutalik46/tier-3-application-on-Kubernetes">Tier-3 Kubernetes Application</a></h3>
+      <p>Deploying a multi-tier application on Kubernetes while practising workloads, services, configuration, and cluster operations.</p>
+      <code>Kubernetes</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ <a href="https://github.com/SudharshanMutalik46/EKS-Terraform-Jenkins-project">EKS Terraform Jenkins</a></h3>
+      <p>Provisioning AWS EKS infrastructure with Terraform and exploring automated delivery through Jenkins pipelines.</p>
+      <code>AWS EKS</code> <code>Terraform</code> <code>Jenkins</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/SudharshanMutalik46/reddit-clone-k8s-ingress">Reddit Clone on Kubernetes</a></h3>
+      <p>Learning container deployment, Kubernetes Services, ingress routing, and external application access.</p>
+      <code>Kubernetes</code> <code>Ingress</code> <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/SudharshanMutalik46/E-Commerce_Website">E-Commerce DevOps Platform</a></h3>
+      <p>Exploring an AWS delivery stack with Kubernetes, Terraform, Jenkins, Argo CD, monitoring, and logging.</p>
+      <code>AWS</code> <code>GitOps</code> <code>Observability</code>
+    </td>
+  </tr>
+</table>
+
+## `05 / OPERATIONS MINDSET`
+
+```text
+observe  → collect the right metrics and logs
+isolate  → narrow the failure across app, network, OS, and cloud layers
+recover  → restore service safely and verify the result
+automate → turn the fix into alerts, runbooks, code, or guardrails
+```
+
+## `06 / ACTIVITY`
 
 <p align="center">
-  <a href="https://github.com/SudharshanMutalik46/tier-3-application-on-Kubernetes">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SudharshanMutalik46&repo=tier-3-application-on-Kubernetes&theme=github_dark&hide_border=true&title_color=00e5c4&icon_color=ff9900&text_color=c9d1d9&bg_color=0d1117" alt="Tier 3 application on Kubernetes" />
-  </a>
-  <a href="https://github.com/SudharshanMutalik46/EKS-Terraform-Jenkins-project">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SudharshanMutalik46&repo=EKS-Terraform-Jenkins-project&theme=github_dark&hide_border=true&title_color=00e5c4&icon_color=ff9900&text_color=c9d1d9&bg_color=0d1117" alt="EKS Terraform Jenkins project" />
-  </a>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharshanMutalik46&bg_color=0d1117&color=00e5c4&line=ff9900&point=ffffff&area=true&hide_border=true" alt="Sudharshan Mutalik's GitHub contribution activity graph" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/SudharshanMutalik46/reddit-clone-k8s-ingress">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SudharshanMutalik46&repo=reddit-clone-k8s-ingress&theme=github_dark&hide_border=true&title_color=00e5c4&icon_color=ff9900&text_color=c9d1d9&bg_color=0d1117" alt="Reddit clone Kubernetes ingress" />
-  </a>
-  <a href="https://github.com/SudharshanMutalik46/E-Commerce_Website">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SudharshanMutalik46&repo=E-Commerce_Website&theme=github_dark&hide_border=true&title_color=00e5c4&icon_color=ff9900&text_color=c9d1d9&bg_color=0d1117" alt="E-Commerce Website Kubernetes lab" />
-  </a>
-</p>
-
-## `04 / GITHUB SIGNAL`
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SudharshanMutalik46&show_icons=true&theme=github_dark&hide_border=true&title_color=00e5c4&icon_color=ff9900&text_color=c9d1d9&bg_color=0d1117" alt="Sudharshan's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=SudharshanMutalik46&theme=github-dark-blue&hide_border=true&ring=00E5C4&fire=FF9900&currStreakLabel=00E5C4" alt="Sudharshan's GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharshanMutalik46&bg_color=0d1117&color=00e5c4&line=ff9900&point=ffffff&area=true&hide_border=true" alt="Sudharshan's contribution activity graph" />
-</p>
-
-## `05 / CURRENT BUILD`
+## `07 / CURRENT BUILD`
 
 ```text
 $ now --learning
