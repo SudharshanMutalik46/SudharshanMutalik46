@@ -2,9 +2,10 @@
   <img src="./assets/cloud-terminal-banner.svg" width="100%" alt="Sudharshan Mutalik — AWS Cloud, Linux and DevOps" />
 </p>
 
+<h3 align="center">AWS Cloud Support Engineer · Linux Administrator · DevOps Engineer</h3>
+
 <p align="center">
-  <strong>AWS Cloud Support Engineer · Linux Administrator · DevOps Engineer</strong><br />
-  <sub>Building reliable cloud infrastructure through automation, observability, and practical troubleshooting.</sub>
+  I build and support reliable cloud infrastructure using AWS, Linux, automation, containers, and observability.
 </p>
 
 <p align="center">
@@ -13,100 +14,99 @@
   <img src="https://komarev.com/ghpvc/?username=SudharshanMutalik46&label=PROFILE+VIEWS&color=00bfa6&style=for-the-badge" alt="Profile views" />
 </p>
 
-## `01 / WHOAMI`
+## `01 / ABOUT ME`
 
-Hello! I'm **Sudharshan**, an AWS Cloud and DevOps Engineer focused on keeping infrastructure reliable, secure, observable, and repeatable. I enjoy solving Linux and networking issues, automating cloud environments, and turning operational lessons into clear runbooks and reusable infrastructure.
+Hello! I'm **Sudharshan**, an AWS Cloud and DevOps Engineer with **1 year of hands-on experience** in cloud support, Linux administration, infrastructure troubleshooting, and automation.
 
-```yaml
-location: Bengaluru, India
-experience: 1 year in Cloud Support and DevOps
-strengths: [AWS operations, Linux, troubleshooting, automation, monitoring]
-currently_building: deeper Kubernetes, EKS, Terraform, and CI/CD skills
-open_to: [AWS Cloud Support, Linux Administrator, DevOps Engineer]
-```
+I enjoy tracing problems across application, network, operating-system, and AWS layers—then turning the solution into monitoring, documentation, or reusable code. I am currently based in **Bengaluru, India**, and open to AWS Cloud Support, Linux Administrator, and DevOps opportunities.
 
-## `02 / ENGINEERING IMPACT`
+<p>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Quest-Cloud_Practitioner_Training_Badge-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Quest Cloud Practitioner training badge" />
+  <img src="https://img.shields.io/badge/Availability-Immediate_Joiner-00BFA6?style=flat-square" alt="Immediate joiner" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru,_India-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white" alt="Bengaluru, India" />
+</p>
 
-- ⚡ Improved incident response with **10+ CloudWatch alarms**, SNS notifications, and documented troubleshooting procedures.
-- 📈 Supported **99.9% infrastructure uptime** across cloud and on-premises environments.
-- 🔐 Hardened **10+ Ubuntu servers** with SSH keys, patching, permissions, and access controls.
-- 💰 Reduced avoidable AWS costs by identifying idle EC2 instances, unattached EBS volumes, and unused Elastic IPs.
-- 🛠️ Built Terraform, Docker, Kubernetes, Prometheus, and Grafana configurations for hands-on platform operations.
+## `02 / IMPACT AT A GLANCE`
 
-## `03 / CLOUD TOOLBELT`
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>99.9%</strong><br /><sub>Infrastructure uptime supported</sub></td>
+    <td align="center" width="25%"><strong>40% faster</strong><br /><sub>Incident response</sub></td>
+    <td align="center" width="25%"><strong>30% saved</strong><br /><sub>AWS cost optimisation</sub></td>
+    <td align="center" width="25%"><strong>10+ servers</strong><br /><sub>Linux systems hardened</sub></td>
+  </tr>
+</table>
+
+- Built **10+ CloudWatch alarms** with SNS notifications and documented response procedures.
+- Supported cloud and on-premises environments through monitoring, incident triage, and root-cause investigation.
+- Improved security using SSH keys, patching, least-privilege IAM, access controls, and security-group reviews.
+- Identified idle EC2 instances, unattached EBS volumes, and unused Elastic IPs to reduce avoidable spend.
+
+## `03 / TECH STACK`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,terraform,docker,kubernetes,jenkins,githubactions,prometheus,grafana,postgres,git,bash&perline=12" alt="AWS, Linux, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Prometheus, Grafana, PostgreSQL, Git and Bash" />
 </p>
 
-**Cloud** — AWS EC2 · VPC · IAM · RDS · S3 · CloudWatch · Route 53  
-**Platform** — Linux · Docker · Kubernetes · Amazon EKS  
-**Automation** — Terraform · Jenkins · GitHub Actions · Bash · Git  
-**Observability** — Prometheus · Grafana · CloudWatch · SNS alerting  
-**Operations** — DNS · DHCP · VPN · Firewalls · SSH · Patching
+| Domain | Technologies |
+|:--|:--|
+| **AWS Cloud** | EC2 · VPC · IAM · RDS · S3 · CloudWatch · Route 53 · ELB |
+| **Containers** | Docker · Kubernetes · Amazon EKS · Ingress · Helm |
+| **Automation** | Terraform · Jenkins · GitHub Actions · Bash · Git |
+| **Observability** | Prometheus · Grafana · CloudWatch · SNS alerting |
+| **Systems** | Linux · SSH · DNS · DHCP · VPN · Firewalls · Patching |
 
 ## `04 / SELECTED DEVOPS LABS`
 
-> Fork-based learning environments used to practise Kubernetes, AWS infrastructure, Terraform, ingress, monitoring, and delivery workflows.
+> Fork-based learning environments used for practical Kubernetes, AWS, Terraform, ingress, monitoring, and delivery exercises.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>☸️ <a href="https://github.com/SudharshanMutalik46/tier-3-application-on-Kubernetes">Tier-3 Kubernetes Application</a></h3>
-      <p>Deploying a multi-tier application on Kubernetes while practising workloads, services, configuration, and cluster operations.</p>
-      <code>Kubernetes</code> <code>JavaScript</code>
+      <p>Multi-tier application deployment covering Kubernetes workloads, services, configuration, and cluster operations.</p>
+      <p><code>Kubernetes</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏗️ <a href="https://github.com/SudharshanMutalik46/EKS-Terraform-Jenkins-project">EKS Terraform Jenkins</a></h3>
-      <p>Provisioning AWS EKS infrastructure with Terraform and exploring automated delivery through Jenkins pipelines.</p>
-      <code>AWS EKS</code> <code>Terraform</code> <code>Jenkins</code>
+      <p>AWS EKS infrastructure provisioning with Terraform and automated delivery using Jenkins.</p>
+      <p><code>AWS EKS</code> <code>Terraform</code> <code>Jenkins</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/SudharshanMutalik46/reddit-clone-k8s-ingress">Reddit Clone on Kubernetes</a></h3>
-      <p>Learning container deployment, Kubernetes Services, ingress routing, and external application access.</p>
-      <code>Kubernetes</code> <code>Ingress</code> <code>TypeScript</code>
+      <p>Container deployment, Kubernetes Services, ingress routing, and external application access.</p>
+      <p><code>Kubernetes</code> <code>Ingress</code> <code>TypeScript</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/SudharshanMutalik46/E-Commerce_Website">E-Commerce DevOps Platform</a></h3>
-      <p>Exploring an AWS delivery stack with Kubernetes, Terraform, Jenkins, Argo CD, monitoring, and logging.</p>
-      <code>AWS</code> <code>GitOps</code> <code>Observability</code>
+      <p>AWS delivery stack with Kubernetes, Terraform, Jenkins, Argo CD, monitoring, and logging.</p>
+      <p><code>AWS</code> <code>GitOps</code> <code>Observability</code></p>
     </td>
   </tr>
 </table>
 
-## `05 / OPERATIONS MINDSET`
+## `05 / HOW I TROUBLESHOOT`
 
 ```text
-observe  → collect the right metrics and logs
-isolate  → narrow the failure across app, network, OS, and cloud layers
-recover  → restore service safely and verify the result
-automate → turn the fix into alerts, runbooks, code, or guardrails
+01  OBSERVE   → collect metrics, logs, events, and recent changes
+02  ISOLATE   → narrow the failure across app, network, OS, and cloud layers
+03  RECOVER   → restore service safely and verify expected behaviour
+04  IMPROVE   → convert the fix into alerts, runbooks, automation, or guardrails
 ```
 
-## `06 / ACTIVITY`
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SudharshanMutalik46&bg_color=0d1117&color=00e5c4&line=ff9900&point=ffffff&area=true&hide_border=true" alt="Sudharshan Mutalik's GitHub contribution activity graph" />
-</p>
-
-## `07 / CURRENT BUILD`
+## `06 / CURRENT FOCUS`
 
 ```text
-$ now --learning
-> Kubernetes and EKS operations
-> Terraform patterns and reusable infrastructure
-> CI/CD reliability and deployment automation
-> Monitoring, alerting, and structured troubleshooting
-
-$ next --goal
-> Build dependable cloud platforms and grow through real operational challenges
+Kubernetes and EKS operations     Terraform modules and reusable IaC
+CI/CD reliability                 Monitoring and alerting
+Linux and network troubleshooting Cloud security and cost optimisation
 ```
 
 ---
 
 <p align="center">
   <strong>Cloud problems are puzzles. Good operations make the solution repeatable.</strong><br />
-  <sub>Open to AWS Cloud Support, Linux Administrator, and DevOps opportunities.</sub>
+  <sub>Open to AWS Cloud Support · Linux Administrator · DevOps Engineer roles</sub>
 </p>
